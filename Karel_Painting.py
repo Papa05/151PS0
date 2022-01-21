@@ -1,9 +1,9 @@
 #====================================================
 # Filename: Karel_Painting.py
 # 
-# Your name:
+# Your name: papa lynch
 # Who did you work with (if anyone)?:
-# Estimate for time spent (in hrs)?:
+# Estimate for time spent (in hrs)?: 4
 #====================================================
 
 # I've just laid out a basic starting function below, but remember that you
@@ -16,3 +16,22 @@ import karel
 def main():
     """ Function to cause Karel to paint 3 sides of its house and then go indoors. """
     # You can add your code below
+    put_beeper()
+    turn_left()
+    move()
+    pick_beeper()
+    turn_left()
+    move()
+    put_beeper()
+    move()
+    move()
+    pick_beeper()
+    turn_left()
+    put_beeper()
+    move()
+    move()
+    turn left()
+    
+   
+    
+    
