@@ -6,7 +6,7 @@ Points: 10<br>
 Due: 2021-09-06<br>
 </details>
 
-- [ ] Submitted?
+- [x ] Submitted?
 
 _Please insert an x in the square brackets above to mark the assignment as submitted!_
 
